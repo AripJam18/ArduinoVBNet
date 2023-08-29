@@ -1,0 +1,11 @@
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.vbprojAssemblyReference.cache
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.Form1.resources
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.Resources.resources
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.vbproj.GenerateResource.cache
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.vbproj.CoreCompileInputs.cache
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\bin\Debug\ArduinoMegaVBNet.exe
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\bin\Debug\ArduinoMegaVBNet.pdb
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\bin\Debug\ArduinoMegaVBNet.xml
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.exe
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.xml
+C:\Users\190078\source\repos\ArduinoMegaVBNet\ArduinoMegaVBNet\obj\Debug\ArduinoMegaVBNet.pdb
